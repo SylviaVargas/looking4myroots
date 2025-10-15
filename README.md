@@ -50,5 +50,3 @@ Sus términos de servicio restringen la redistribución de datos, imágenes o co
 Por lo tanto, este repositorio no incluye imágenes de registros ni extractos directos de dichas bases de datos.
 
 Al acceder a este repositorio, usted acepta respetar estas limitaciones y utilizar la información solo con fines personales o educativos.
-
-
