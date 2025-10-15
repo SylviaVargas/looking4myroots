@@ -21,6 +21,14 @@ The purpose of this project is to:
 ---
 
 ## 🗂 Repository Organization  
+
+/Individuals/     → Markdown files for ancestors and relatives
+/Families/        → Group narratives and family units
+/Places/          → Historical and geographical notes by municipality
+/Translations/    → Spanish/English versions of selected files
+/LICENSE          → Legal and ethical statement
+/README.md        → This file
+
 ## Research Use Notice / Aviso de Uso para Investigación
 
 This repository is dedicated to documenting and preserving Puerto Rican family history for educational and genealogical purposes.  
