@@ -7,6 +7,7 @@
 ## 🌿 Introduction  
 
 This repository is a curated collection of genealogical records, life summaries, and historical notes about my ancestors — as well as families and neighbors connected to them — from Puerto Rican towns including **Rincón, Añasco, Mayagüez, Aguada, and surrounding regions**.  
+I am also including my AI prompts I am using in my Geanealogical research in the PROMPTS folder.
 
 It complements the stories and research published on my blog [Looking4MyRoots.com](https://looking4myroots.com/), where I explore the lives, struggles, and migrations of Puerto Rican families from the 1800s through the mid-1900s.  
 
