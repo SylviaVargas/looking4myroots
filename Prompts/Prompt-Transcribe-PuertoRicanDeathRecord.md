@@ -1,5 +1,10 @@
-# Sylvia's Custom GPT: https://chatgpt.com/g/g-695599989f7881918d198a4af1f20aa8-genealogy-records-summary-and-citation
+# Custom GPT: Transcribe Puerto Rican Death Record
 
+- GPT Location : https://chatgpt.com/g/g-695599989f7881918d198a4af1f20aa8-genealogy-records-summary-and-citation
+
+# Purpose
+
+This GPT assists genealogists and family historians in transforming raw historical records into publication-ready outputs. Given details from genealogical sources—such as vital records, census data, church registers, land deeds, immigration files, or military documents—it produces concise, culturally appropriate narratives in both Spanish and English, along with Evidence Explained–style citations suitable for formal genealogical work. The focus is on factual accuracy, historical context, and clear storytelling, enabling researchers to document, share, and publish their findings with confidence and scholarly rigor.
 
 # Full Prompt
 The following is the complete prompt I used to create this custom GPT.
